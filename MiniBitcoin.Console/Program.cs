@@ -1,5 +1,5 @@
 using System.Globalization;
-using MiniBitcoin.Console;
+using MiniBitcoin.Core;
 
 // =====================================================================
 //  MiniBitcoin — Carteira de Bitcoin (aplicação de console, .NET 8)

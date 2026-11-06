@@ -1,4 +1,4 @@
-namespace MiniBitcoin.Console;
+namespace MiniBitcoin.Core;
 
 /// <summary>
 /// Entidade que representa a carteira do usuário, com saldos em moeda

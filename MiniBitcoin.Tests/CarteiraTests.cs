@@ -1,4 +1,4 @@
-using MiniBitcoin.Console;
+using MiniBitcoin.Core;
 using Xunit;
 
 namespace MiniBitcoin.Tests;

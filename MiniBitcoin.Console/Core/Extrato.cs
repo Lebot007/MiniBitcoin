@@ -1,4 +1,4 @@
-namespace MiniBitcoin.Console;
+namespace MiniBitcoin.Core;
 
 /// <summary>
 /// Extrato (histórico) da carteira: registra cada operação de compra e venda

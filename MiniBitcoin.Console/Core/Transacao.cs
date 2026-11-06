@@ -1,4 +1,4 @@
-namespace MiniBitcoin.Console;
+namespace MiniBitcoin.Core;
 
 /// <summary>Tipo de operação realizada na carteira.</summary>
 public enum TipoTransacao
