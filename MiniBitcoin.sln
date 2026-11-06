@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBitcoin.Console", "MiniBitcoin.Console\MiniBitcoin.Console.csproj", "{9F1D2BDC-D711-4117-8B73-3C7991A592BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBitcoin.Tests", "MiniBitcoin.Tests\MiniBitcoin.Tests.csproj", "{846AC365-A570-4EA2-8933-5939F36AAA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1D2BDC-D711-4117-8B73-3C7991A592BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1D2BDC-D711-4117-8B73-3C7991A592BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1D2BDC-D711-4117-8B73-3C7991A592BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1D2BDC-D711-4117-8B73-3C7991A592BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846AC365-A570-4EA2-8933-5939F36AAA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846AC365-A570-4EA2-8933-5939F36AAA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846AC365-A570-4EA2-8933-5939F36AAA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846AC365-A570-4EA2-8933-5939F36AAA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
